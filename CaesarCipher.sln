@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaesarCipher", "CaesarCipher.csproj", "{5A6BB50D-ECD1-4B5D-816E-5D3829506DF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaesarCipher.Tests", "..\CaesarCipher.Tests\CaesarCipher.Tests.csproj", "{BBAFBFF9-4935-496D-AAB9-118CBAEDA899}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A6BB50D-ECD1-4B5D-816E-5D3829506DF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A6BB50D-ECD1-4B5D-816E-5D3829506DF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A6BB50D-ECD1-4B5D-816E-5D3829506DF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A6BB50D-ECD1-4B5D-816E-5D3829506DF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBAFBFF9-4935-496D-AAB9-118CBAEDA899}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBAFBFF9-4935-496D-AAB9-118CBAEDA899}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBAFBFF9-4935-496D-AAB9-118CBAEDA899}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBAFBFF9-4935-496D-AAB9-118CBAEDA899}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A73CD48-867F-44A8-BC6C-CED97A5F03ED}
+	EndGlobalSection
+EndGlobal
